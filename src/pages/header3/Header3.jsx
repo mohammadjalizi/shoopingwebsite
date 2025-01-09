@@ -117,7 +117,7 @@ return  (
 <div className=' flex justify-between items-center  w-[12rem] flex-wrap  '>
 
   <p>{item.price}</p>
-  <img src="public\the best\productimage\Group 65.svg" alt="" />
+  <img className=' cursor-pointer '  src="public\the best\productimage\Group 65.svg" alt="" />
 </div>
 </div>
 

@@ -13,7 +13,7 @@ const Navbar = () => {
 
 <div className=' hidden  md:flex   items-center gap-9  '>
 <li className=' list-none '>
-   <img className=' size-14 rounded-full border shadow-2xl ' src="public\download.jpg" alt="" />
+   <img className=' size-14 rounded-full border shadow-2xl ' src="public\logo.png" alt="" />
 </li>
 <li className='  text-[#FF6B00] list-none '> خانه </li>
 <li className='  hover:text-[#FF6B00]  cursor-pointer    list-none '>  خرید </li>
