@@ -1,0 +1,6 @@
+.photo1{
+
+    background-image: url('public/the best/productimage/back.png');
+background-position: revert-layer;
+    padding: 36px;
+}
