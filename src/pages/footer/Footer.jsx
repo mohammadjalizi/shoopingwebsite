@@ -57,15 +57,15 @@ const Footer = () => {
   </div>
 </div>
 
-<div>
+<div className='  w-full rounded-xl   md:w-[40%]  border-dotted border-4  border-orange-300  p-6'>
 
-  <h1>جهت ارتباط با ما </h1>
+  <h1 className=' text-3xl  '>جهت ارتباط با ما </h1>
   <ul className=' my-4 ' >
-    <li className=' flex ga-2 '>
+    <li className=' flex ga-2 m-4  '>
 
       <Phone/>
       09339509470</li>
-    <li className=' flex gap-2 '>
+    <li className=' flex gap-2 m-4 '>
  <Mail/>
        devmohammad53@gmail.com
         </li>

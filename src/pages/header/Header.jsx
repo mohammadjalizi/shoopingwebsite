@@ -12,7 +12,7 @@ const Header = () => {
 </h1>
 <p className=" mt-8 text-center text-[#020411] ">لباس‌هایی مناسب با همه سلیقه‌ها</p>
 
-<div className=" mt-6 relative">
+<div className=" mt-6 md:relative">
 <img src="public\slider_3.jpg" alt="" />
 <h1 className=" absolute     hidden  md:block   top-32 right-5 bg-[#FEE49E] text-black p-3 border rounded-xl   ">تنوع لباس‌هاش خیلی زیاد هست :)</h1>
 <h1 className=" absolute   hidden md:block top-24 bg-[#FEE49E] text-black p-3 border rounded-xl   left-80 ">تا حالا هرچی ازشون خریدم راضی بودم</h1>
