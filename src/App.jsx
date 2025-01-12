@@ -1,5 +1,6 @@
 
 import './App.css'
+import Footer from './pages/footer/Footer'
 import Header from './pages/header/Header'
 import Header2 from './pages/header2/Header2'
 import Header3 from './pages/header3/Header3'
@@ -18,6 +19,7 @@ function App() {
 <Header3/>
 <hr />
 <Product/>
+<Footer/>
 {/* <Product/> */}
 </>
   )

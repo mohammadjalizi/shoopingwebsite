@@ -59,7 +59,7 @@ const dataImage=[
       title:"لباس زمستانی مدل ۱۹۶۰",
       subtitle:"برند گوچی",
       image:"public/the best/2580923c6c5bfe1861535b0718d88e37-removebg-preview 1.png",
-      price:"۲۱۳.۰۰۰ تومان",
+    
       
       
       },
@@ -114,11 +114,7 @@ return  (
 <img className='  photo   h-[16rem]  '  src={item.image} alt="" />
 <p>{item.title}</p>
 <h1>{item.subtitle}</h1>
-<div className=' flex justify-between items-center  w-[12rem] flex-wrap  '>
 
-  <p>{item.price}</p>
-  <img className=' cursor-pointer '  src="public\the best\productimage\Group 65.svg" alt="" />
-</div>
 </div>
 
 </>
