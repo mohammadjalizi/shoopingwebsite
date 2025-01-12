@@ -14,8 +14,8 @@ const Header = () => {
 
 <div className=" mt-6 relative">
 <img src="public\slider_3.jpg" alt="" />
-<h1 className=" absolute  top-32 right-5 bg-[#FEE49E] text-black p-3 border rounded-xl   ">تنوع لباس‌هاش خیلی زیاد هست :)</h1>
-<h1 className=" absolute  top-24 bg-[#FEE49E] text-black p-3 border rounded-xl   left-80 ">تا حالا هرچی ازشون خریدم راضی بودم</h1>
+<h1 className=" md:absolute  hidden  top-32 right-5 bg-[#FEE49E] text-black p-3 border rounded-xl   ">تنوع لباس‌هاش خیلی زیاد هست :)</h1>
+<h1 className=" md:absolute hidden  top-24 bg-[#FEE49E] text-black p-3 border rounded-xl   left-80 ">تا حالا هرچی ازشون خریدم راضی بودم</h1>
 </div>
 
 
